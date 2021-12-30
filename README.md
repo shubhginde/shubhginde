@@ -5,6 +5,4 @@
 
 Here are some ideas to get you started:
 -->
-
-- 🔭 I’m currently working on ... Movie Ratings App
 - 🌱 I’m currently learning ... Full Stack Dev
